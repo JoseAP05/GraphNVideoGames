@@ -1,0 +1,11 @@
+C:\Users\Jose\Documents\VisualStudioProjects\Project3UwU\Project3UwU\bin\Debug\Project3UwU.exe.config
+C:\Users\Jose\Documents\VisualStudioProjects\Project3UwU\Project3UwU\bin\Debug\Project3UwU.exe
+C:\Users\Jose\Documents\VisualStudioProjects\Project3UwU\Project3UwU\bin\Debug\Project3UwU.pdb
+C:\Users\Jose\Documents\VisualStudioProjects\Project3UwU\Project3UwU\obj\Debug\Project3UwU.csproj.AssemblyReference.cache
+C:\Users\Jose\Documents\VisualStudioProjects\Project3UwU\Project3UwU\obj\Debug\Project3UwU.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jose\Documents\VisualStudioProjects\Project3UwU\Project3UwU\obj\Debug\Project3UwU.Form1.resources
+C:\Users\Jose\Documents\VisualStudioProjects\Project3UwU\Project3UwU\obj\Debug\Project3UwU.Properties.Resources.resources
+C:\Users\Jose\Documents\VisualStudioProjects\Project3UwU\Project3UwU\obj\Debug\Project3UwU.csproj.GenerateResource.cache
+C:\Users\Jose\Documents\VisualStudioProjects\Project3UwU\Project3UwU\obj\Debug\Project3UwU.csproj.CoreCompileInputs.cache
+C:\Users\Jose\Documents\VisualStudioProjects\Project3UwU\Project3UwU\obj\Debug\Project3UwU.exe
+C:\Users\Jose\Documents\VisualStudioProjects\Project3UwU\Project3UwU\obj\Debug\Project3UwU.pdb
