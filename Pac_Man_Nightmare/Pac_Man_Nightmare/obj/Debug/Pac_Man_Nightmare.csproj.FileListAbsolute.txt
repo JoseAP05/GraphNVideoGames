@@ -1,0 +1,11 @@
+C:\Users\Jose\Documents\VisualStudioProjects\Pac_Man_Nightmare\Pac_Man_Nightmare\bin\Debug\Pac_Man_Nightmare.exe.config
+C:\Users\Jose\Documents\VisualStudioProjects\Pac_Man_Nightmare\Pac_Man_Nightmare\bin\Debug\Pac_Man_Nightmare.exe
+C:\Users\Jose\Documents\VisualStudioProjects\Pac_Man_Nightmare\Pac_Man_Nightmare\bin\Debug\Pac_Man_Nightmare.pdb
+C:\Users\Jose\Documents\VisualStudioProjects\Pac_Man_Nightmare\Pac_Man_Nightmare\obj\Debug\Pac_Man_Nightmare.csproj.AssemblyReference.cache
+C:\Users\Jose\Documents\VisualStudioProjects\Pac_Man_Nightmare\Pac_Man_Nightmare\obj\Debug\Pac_Man_Nightmare.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jose\Documents\VisualStudioProjects\Pac_Man_Nightmare\Pac_Man_Nightmare\obj\Debug\Pac_Man_Nightmare.Form1.resources
+C:\Users\Jose\Documents\VisualStudioProjects\Pac_Man_Nightmare\Pac_Man_Nightmare\obj\Debug\Pac_Man_Nightmare.Properties.Resources.resources
+C:\Users\Jose\Documents\VisualStudioProjects\Pac_Man_Nightmare\Pac_Man_Nightmare\obj\Debug\Pac_Man_Nightmare.csproj.GenerateResource.cache
+C:\Users\Jose\Documents\VisualStudioProjects\Pac_Man_Nightmare\Pac_Man_Nightmare\obj\Debug\Pac_Man_Nightmare.csproj.CoreCompileInputs.cache
+C:\Users\Jose\Documents\VisualStudioProjects\Pac_Man_Nightmare\Pac_Man_Nightmare\obj\Debug\Pac_Man_Nightmare.exe
+C:\Users\Jose\Documents\VisualStudioProjects\Pac_Man_Nightmare\Pac_Man_Nightmare\obj\Debug\Pac_Man_Nightmare.pdb
