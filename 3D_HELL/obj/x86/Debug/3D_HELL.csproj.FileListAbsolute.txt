@@ -1,0 +1,11 @@
+C:\Users\Jose\Desktop\3D_HELL\bin\Debug\3D_HELL.exe.config
+C:\Users\Jose\Desktop\3D_HELL\bin\Debug\3D_HELL.exe
+C:\Users\Jose\Desktop\3D_HELL\bin\Debug\3D_HELL.pdb
+C:\Users\Jose\Desktop\3D_HELL\obj\x86\Debug\3D_HELL.csproj.AssemblyReference.cache
+C:\Users\Jose\Desktop\3D_HELL\obj\x86\Debug\3D_HELL.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jose\Desktop\3D_HELL\obj\x86\Debug\LIVE_DEMO.MAIN_FORM.resources
+C:\Users\Jose\Desktop\3D_HELL\obj\x86\Debug\LIVE_DEMO.Properties.Resources.resources
+C:\Users\Jose\Desktop\3D_HELL\obj\x86\Debug\3D_HELL.csproj.GenerateResource.cache
+C:\Users\Jose\Desktop\3D_HELL\obj\x86\Debug\3D_HELL.csproj.CoreCompileInputs.cache
+C:\Users\Jose\Desktop\3D_HELL\obj\x86\Debug\3D_HELL.exe
+C:\Users\Jose\Desktop\3D_HELL\obj\x86\Debug\3D_HELL.pdb
